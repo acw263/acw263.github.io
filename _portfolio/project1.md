@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: AI-Assisted Concept...
+subtitle: "Use Case: Patient-centric Endpoints"
+image: assets/img/team/500x500.jpg
+alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: AI-Assisted Concept...
+  subtitle: An Alternative to...
+  thumbnail: assets/img/team/500x500.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Mebomine technology offers...
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Qualitative & quantitative...
+- 10x traditional cohort...
+- Results in weeks...

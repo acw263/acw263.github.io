@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Track Health...
+subtitle: "Use Case: Mental and physical..."
+image: assets/img/team/500x500.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Track Health...
+  subtitle: Community Insights...
+  thumbnail: assets/img/team/500x500.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Mebomine continuously monitors...
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- Identify hot...
+- Monitor discussion...
+- Identify emerging...
