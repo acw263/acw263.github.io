@@ -7,7 +7,7 @@ alt:
 caption:
   title: Reconstructing Patient Journey
   subtitle: Routes to diagnosis and care pathway
-  thumbnail: assets/img/team/500x500.jpg
+  thumbnail: assets/img/portfolio/thumb2.jpeg
 ---
 Mebomine helps discover factors that shape the diagnosis and treatment journey of patients through healthcare systems. These insights can help accelerate future diagnoses and get new treatments to patients more quickly.
 

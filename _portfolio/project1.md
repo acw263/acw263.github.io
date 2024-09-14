@@ -7,7 +7,7 @@ alt:
 caption:
   title: AI-Assisted Concept Elicitation
   subtitle: Patient-centered outcome measures
-  thumbnail: assets/img/team/500x500.jpg
+  thumbnail: assets/img/portfolio/thumb1.jpeg
 ---
 Mebomine helps identify patient-centered outcome measures (POMs) that are key to the development of patient-centric endpoints in clinical outcome assessments (COAs), ensuring that these measures capture aspects of healthcare that are meaningful to the target population. 
 

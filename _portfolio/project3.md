@@ -7,7 +7,7 @@ alt:
 caption:
   title: Tracking Healthcare Trends
   subtitle: Evolution of patient experience
-  thumbnail: assets/img/team/500x500.jpg
+  thumbnail: assets/img/portfolio/thumb3.jpeg
 ---
 Mebomine helps detect emerging healthcare trends and their impacts on patient communities to understand the evolution of patient concerns and responses over time and how these concerns and responses vary between individuals with different conditions.
 
