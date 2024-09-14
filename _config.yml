@@ -17,13 +17,13 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Mebo
-email      : m.abdollahyan@qmul.ac.uk #this is also the email contact forms will go to
-description: "Test"
-author     : MA
+title      : Mebomine Ltd
+email      : hello@mebomine.com #this is also the email contact forms will go to
+description: "Mebomine Ltd website"
+author     : Mebomine Ltd
 logo: #optional, defaults to site title
-  path: assets\img\clients\logo.png
-  height: 60 #height in px, defaults to 52px
+  path: assets\img\logo.jpg
+  height: 90 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

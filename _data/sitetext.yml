@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Mebo Tech
-    text: Clinical Insights from...
+    title: Mebomine AI
+    text: Realising the best patient outcomes
     button: Explore
     buttonlink: "#portfolio"
 
@@ -71,26 +71,26 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: 
-    body: "Online health forums are..."
+    body: "<p>Online health boards are a valuable source of the patient voice, where patients (and carers) share first-hand information about their lived experience, symptoms, response to treatment, and unmet needs.</p><p>Mebomine’s unique data analytics methodology combines domain-specific natural language processing, machine learning and statistical analysis to find, interpret and link clinical insights from online patient communities about thousands of conditions, supporting a wide variety of needs.</p>"
     section: about
 
   clients:
     section: clients
-    max-height: 100px
+    max-height: 80px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "QMUL"
-        url: https://github.com
-        logo: assets/img/clients/logo.png
+        url: https://www.qmul.ac.uk/
+        logo: assets/img/clients/qmul.png
       - title: "QMI"
-        url: https://github.com
-        logo: assets/img/clients/logo.png
+        url: https://qminnovation.co.uk/
+        logo: assets/img/clients/qmi.png
       - title: "BH"
-        url: https://github.com
-        logo: assets/img/clients/logo.png
-      - title: "CAP-AI"
-        url: https://github.com
-        logo: assets/img/clients/logo.png
+        url: https://www.bartshealth.nhs.uk/
+        logo: assets/img/clients/bh.png
+#      - title: ""
+#        url: https://github.com
+#        logo: assets/img/clients/logo.png
 
   team:
     title: "Our Team"
@@ -98,9 +98,9 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
-      - name: "MA"
-        role: "MA is..."
-        image: assets/img/team/500x500.jpg
+      - name: "Dr Maryam Abdollahyan"
+        role: "Maryam is a data scientist at the Barts Cancer Institute. Her research includes machine learning with applications in bioinformatics and health informatics."
+        image: assets/img/team/ma.png
 #        social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -108,9 +108,9 @@ en: &DEFAULT_EN
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "CB"
-        role: "CB is..."
-        image: assets/img/team/500x500.jpg
+      - name: "Prof Conrad Bessant"
+        role: "Conrad is the chair of Bioinformatics at Queen Mary University of London. He has over 25 years’ experience developing analytics solutions for the life sciences."
+        image: assets/img/team/cb.png
 #        social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -118,9 +118,9 @@ en: &DEFAULT_EN
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "FS"
-        role: "FS is..."
-        image: assets/img/team/500x500.jpg
+      - name: "Dr Fabrizio Smeraldi"
+        role: "Fabrizio is an associate professor of Artificial Intelligence at Queen Mary University of London. He is an expert in machine learning with over 20 years’ experience."
+        image: assets/img/team/fs.png
 #        social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Mebo Email"
+    text: "hello@mebomine.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -151,7 +151,7 @@ en: &DEFAULT_EN
 #        icon: "fab fa-twitter"
 #      - url: https://facebook.com
 #        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/mebomine/
         icon: "fab fa-linkedin-in"
 #      - url: https://github.com/raviriley/agency-jekyll-theme
 #        icon: "fab fa-github"
