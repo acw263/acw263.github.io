@@ -11,6 +11,6 @@ caption:
 ---
 Mebomine helps discover factors that shape the diagnosis and treatment journey of patients through healthcare systems. These insights can help accelerate future diagnoses and get new treatments to patients more quickly.
 
-For more details on this case study, see our [BMJ](https://bmjopen.bmj.com/content/11/11/e056601) publication.
+For more details on this case study contact us.
 
 {:.list-inline}

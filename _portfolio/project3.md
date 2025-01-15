@@ -11,6 +11,6 @@ caption:
 ---
 Mebomine helps detect emerging healthcare trends and their impacts on patient communities to understand the evolution of patient concerns and responses over time and how these concerns and responses vary between individuals with different conditions.
 
-For more details on this case study contact us.
+For more details on this case study, see our [BMJ](https://bmjopen.bmj.com/content/11/11/e056601) publication.
 
 {:.list-inline}
