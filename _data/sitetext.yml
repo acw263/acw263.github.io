@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: 
-    body: "<p>Online health boards are a valuable source of the patient voice, where patients (and carers) share first-hand information about their lived experience, symptoms, response to treatment, and unmet needs.</p><p>Mebomine’s unique data analytics methodology combines domain-specific natural language processing, machine learning and statistical analysis to find, interpret and link clinical insights from online patient communities about thousands of conditions, supporting a wide variety of needs.</p>"
+    body: "<p>Online health boards are a valuable source of the patient voice, where patients (and carers) share first-hand information about their lived experience, symptoms, response to treatment and unmet needs.</p><p>Mebomine’s unique data analytics methodology combines domain-specific Natural Language Processing, Machine Learning and Statistical Analysis to find, interpret and link clinical insights from online patient communities about thousands of conditions, supporting a wide variety of needs.</p>"
     section: about
 
   clients:
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Dr Maryam Abdollahyan"
-        role: "Maryam is a data scientist at the Barts Cancer Institute. Her research includes machine learning with applications in bioinformatics and health informatics."
+        role: "Maryam is a data scientist at the Barts Cancer Institute. Her research includes Artificial Intelligence with applications in Bioinformatics and Health Informatics."
         image: assets/img/team/ma.png
 #        social:
 #          - url: https://twitter.com
@@ -119,7 +119,7 @@ en: &DEFAULT_EN
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Dr Fabrizio Smeraldi"
-        role: "Fabrizio is an associate professor of Artificial Intelligence at Queen Mary University of London. He is an expert in machine learning with over 20 years’ experience."
+        role: "Fabrizio is an associate professor of Artificial Intelligence at Queen Mary University of London. He is an expert in Machine Learning with over 20 years’ experience."
         image: assets/img/team/fs.png
 #        social:
 #          - url: https://twitter.com

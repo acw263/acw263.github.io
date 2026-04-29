@@ -1,11 +1,11 @@
 ---
-title: AI-Assisted Concept Elicitation
+title: AI-assisted Concept Elicitation
 subtitle: "Case study: Understanding the lived experience of patients with chronic heart failure (CHF)"
 image: assets/img/portfolio/chf.png
 alt: 
 
 caption:
-  title: AI-Assisted Concept Elicitation
+  title: AI-assisted Concept Elicitation
   subtitle: Patient-centered outcome measures
   thumbnail: assets/img/portfolio/thumb1.jpeg
 ---
